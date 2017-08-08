@@ -1,0 +1,12 @@
+<div class="container">
+  <h2>Restricted players</h2>
+  <ul>
+  <% @players.sort_by(&:name).each do |player| %>
+   <li> <%= player.name %> - 
+  <%= link_to 'Delete', player_path(player), method: :delete %> </li>
+  <% end %>
+</ul>
+
+  <h4>  <%= link_to "Add a player", new_player_path %> </h4>
+</div>
+

@@ -1,0 +1,116 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100);
+@import "bootstrap";
+
+* {
+  font-family: "Trebuchet MS", Helvetica, sans-serif; 
+}
+
+div#preloaded-images {
+   position: absolute;
+   overflow: hidden;
+   left: -9999px; 
+   top: -9999px;
+   height: 1px;
+   width: 1px;
+}
+
+a {
+  color: white;
+}
+
+h1 {
+  margin-left: 53px;
+}
+
+.overlay {
+  /*border-style: solid;
+  border-width: 1px;*/
+  border-radius: 60px;
+}
+
+#milk {
+  background-image: url("http://i.imgur.com/46cfKXm.jpg");
+  background-repeat: no-repeat;
+}
+
+#eggs { 
+  background-image: url("http://i.imgur.com/LmlQpTl.jpg");
+  background-repeat: no-repeat;
+}
+
+#pork {
+  background-image: url("http://i.imgur.com/Kw5yv0B.jpg");
+  background-repeat: no-repeat;
+}
+
+#meat {
+  background-image: url("http://i.imgur.com/CYN8Ejr.jpg");
+  background-repeat: no-repeat;
+}
+
+#fruit {
+  background-image: url("http://i.imgur.com/6bu82ne.jpg");
+  background-repeat: no-repeat;
+}
+
+#vegetables {
+  background-image: url("http://i.imgur.com/3nxJJ0h.jpg");
+  background-repeat: no-repeat;
+}
+
+#wine {
+  background-image: url("http://i.imgur.com/pkYqr2X.jpg");
+  background-repeat: no-repeat;
+}
+
+#bread {
+  background-image: url("http://i.imgur.com/RY1Ha6a.jpg");
+  background-repeat: no-repeat;
+}
+
+#jelly {
+  background-image: url("http://i.imgur.com/KAdton9.jpg");
+  background-repeat: no-repeat;
+}
+
+.redfilter {
+  background-color: rgba(155,0,0,.4);
+  display: inline-block;
+  height: 500px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.greenfilter {
+  background-color: rgba(0,155,0,.4);
+  display: inline-block;
+  height: 500px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.nofilter {
+  background-color: rgba(0,0,0,.1);
+  display: inline-block;
+  height: 500px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 60px;
+}
+
+

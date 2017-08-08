@@ -1,0 +1,104 @@
+<div class="table-title">
+  <h3>2017 WILD CARD STANDINGS</h3>
+</div>
+
+<div class="wrap">
+  <div class="two">
+    <table class="table-fill">
+      <thead>
+        <tr>
+          <th class="text-left">Team</th>
+          <th class="text-left">Record</th>
+          <th class="text-left">GB</th>
+          <th class="text-left">Seed</th>
+        </tr>
+      </thead>
+      
+      <tbody class="table-hover">
+        <tr>
+          <td class="text-left-highlight">Miggy Stardust</td>
+          <td class="text-left-highlight">101-81-10</td>
+          <td class="text-left-highlight">+7.0</td>
+          <td class="text-left-highlight">4</td>
+        </tr>
+        <tr>
+          <td class="text-left-highlight">Robbie's Rays</td>
+          <td class="text-left-highlight">98-84-10</td>
+          <td class="text-left-highlight">+4.0</td>
+          <td class="text-left-highlight">5</td>
+        </tr>
+        <tr>
+          <td class="text-left-highlight">Gypsy Danger</td>
+          <td class="text-left-highlight">94-88-10</td>
+          <td class="text-left-highlight">--</td>
+          <td class="text-left-highlight">6</td>
+        </tr>
+        <tr>
+          <td class="text-left">Mookie Monster</td>
+          <td class="text-left">84-100-8</td>
+          <td class="text-left">11.0</td>
+          <td class="text-left"></td>
+        </tr>
+       <tr>
+          <td class="text-left">Sir Didi's Sleepers</td>
+          <td class="text-left">79-102-11</td>
+          <td class="text-left">14.5</td>
+          <td class="text-left"></td>
+        </tr>
+        <tr>
+          <td class="text-left">Vino</td>
+          <td class="text-left">80-107-5</td>
+          <td class="text-left">16.5</td>
+          <td class="text-left"></td>
+        </tr>
+        <tr>
+          <td class="text-left">Backyards Loseagains</td>
+          <td class="text-left">78-107-7</td>
+          <td class="text-left">17.5</td>
+          <td class="text-left"></td>
+        </tr>
+        <tr>
+          <td class="text-left">Homecoming</td>
+          <td class="text-left">69-115-8</td>
+          <td class="text-left">26.0</td>
+          <td class="text-left"></td>
+        </tr>
+        <tr>
+          <td class="text-left">Goku-san</td>
+          <td class="text-left">67-116-9</td>
+          <td class="text-left">27.5</td>
+          <td class="text-left"></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="one">
+    <div class="onebox">
+      <span><strong>Projected first round playoff matchups:</strong></span><br>
+      <span>Uncle Charlie (3) vs. Gypsy Danger (6)</span><br>
+      <span>Miggy Stardust (4) vs. Robbie's Rays (5)</span><br>
+      <br>
+      <span>Jar Jar Tartare (1) - Bye</span><br>
+      <span>Keep it n your pence (2) - Bye</span>
+      <br>
+      <br>
+      <span><strong>Estimated playoff odds as of 7/31:</strong></span> <br>
+      <span> Jar Jar Tartare: 99.98% (+0.05%)</span> <br>
+      <span> Keep it n your pence: 99.93% (-0.04%)</span> <br>
+      <span> Miggy Stardust: 97.96% (+0.08%)</span> <br>
+      <span> Uncle Charlie: 96.89% (+7.1%)</span> <br>
+      <span> Gypsy Danger: 84.90% (+2.96%)</span> <br>
+      <span> Robbie's Rays: 73.97% (-6.04%)</span> <br>
+      <span> Mookie Monster: 20.34% (-10.95%)</span> <br>
+      <span> Sir Didi's Sleepers: 10.95% (+5.38%)</span> <br>
+      <span> Backyards Loseagains: 8.59% (-0.76%)</span> <br>
+      <span> Vino: 4.74% (+2.04%)</span> <br>
+      <span> Homecoming: 1.23% (-0.11%)</span>
+      <span> Goku-san: 0.52% (-0.98%)</span><br>
+    </div>
+-1.27
+  </div>
+</div>
+
+
+
